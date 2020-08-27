@@ -1,0 +1,28 @@
+.singleCourse {
+    background: #fff;
+    padding: 10px;
+    min-height: 400px;
+    margin: 10px;
+    width: 98%;
+    box-shadow: 10px 10px 20px #ced2f78c;
+    border: 2px solid #e5fbf9;
+    padding-bottom: 10px;
+    transition: 600ms;
+}
+.singleCourse:hover {
+    transform: scale(1.05);
+}
+
+.singleCourse img {
+    border: 2px solid wheat;
+}
+.singleCourse h2 {
+    font-weight: 700;
+    font-size: 20px;
+    color: #eb4343d3;
+    margin-top: 10px;
+}
+.singleCourse p {
+    font-weight: 600;
+    color: #76634a;
+}

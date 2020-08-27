@@ -1,0 +1,18 @@
+.shop{
+    padding: 40px 0;
+}
+.courseNumber h2 {
+    font-weight: 700;
+    color: #b24b4b;
+    text-shadow: 1px 1px black;
+}
+.total h2 {
+    font-weight: 700;
+    color: #589ae1;
+    text-shadow: 1px 1px black;
+}
+.btn-outline-info {
+    width: 62%;
+    border-width: 2px;
+    font-weight: 600;
+}

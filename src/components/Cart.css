@@ -1,0 +1,14 @@
+.singleItem {
+    border: 2px solid #dce3fe;
+    padding: 9px 0;
+    box-shadow: 2px 2px 10px #c9eaff;
+    margin-bottom: 10px;
+}
+.courseName h6 {
+    font-weight: 600;
+    color: #3f3f94;
+}
+.coursePrice p {
+    font-weight: 700;
+    color: #7b5f5f;
+}

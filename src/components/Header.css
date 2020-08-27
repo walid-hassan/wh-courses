@@ -1,0 +1,32 @@
+.head{
+    background: #4C4C4C;
+    min-height: 80px;
+    padding: 15px;
+}
+
+.menu a {
+    color: #fff;
+    text-decoration: none;
+    background-color: transparent;
+    margin-right: 30px;
+    font-weight: 700;
+    font-size: 21px;
+}
+.slider{
+    background-image: url('../images/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 200px 0;
+    background-position-y: center;
+    background-position-x: left;
+}
+.sliderTitle {
+    background: #f2f2f2a3;
+    padding: 15px 25px;
+    color: #EA5252;
+    font-weight: 700;
+    box-shadow: inset 3px 3px 20px white;
+    text-shadow: 1px 1px #312b2b;
+    outline: 2px solid #e8e8e8;
+}
